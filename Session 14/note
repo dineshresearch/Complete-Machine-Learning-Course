@@ -1,0 +1,18 @@
+Extreme Gradient Boosting (xgboost) is similar to gradient boosting framework but more efficient. It has both a linear model solver and tree learning algorithms
+
+The overall parameters have been divided into 3 categories by XGBoost authors:
+
+General Parameters: Guide the overall functioning
+Booster Parameters: Guide the individual booster (tree/regression) at each step
+Learning Task Parameters: Guide the optimization performed
+ 
+
+General Parameters
+These define the overall functionality of XGBoost.
+
+booster [default=gbtree]
+Select the type of model to run at each iteration. It has 2 options:
+gbtree: tree-based models
+gblinear: linear models
+
+
