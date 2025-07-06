@@ -92,8 +92,4 @@ Below is a list of the machine learning algorithms implemented in this course.
 
 ---
 
-## 💬 Acknowledgment
-
-This course material was developed and taught by [Your Name]. It is the result of [mention any inspiration or experience, e.g., 'many hours of preparation and a passion for making machine learning accessible'].
-
 I hope you find these resources valuable on your data science journey!
